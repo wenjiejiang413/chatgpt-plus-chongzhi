@@ -37,7 +37,7 @@
 - 个人套餐**没有年付**，也不能一次预付多个月。
 - 实际扣款 = 套餐价 + 账单地址所在地的税费，以官网和应用商店显示为准。
 
-详见：[ChatGPT Plus 多少钱](https://mixlivo.com/guides/chatgpt-plus-price) · [ChatGPT Plus 一年多少钱](https://mixlivo.com/guides/chatgpt-plus-yinian) · [ChatGPT 会员区别](https://mixlivo.com/guides/chatgpt-huiyuan)
+详见：[ChatGPT Plus 多少钱](https://mixlivo.com/guides/chatgpt-plus-price?from=github) · [ChatGPT Plus 一年多少钱](https://mixlivo.com/guides/chatgpt-plus-yinian?from=github) · [ChatGPT 会员区别](https://mixlivo.com/guides/chatgpt-huiyuan?from=github)
 
 ## 开通方式对比
 
@@ -50,7 +50,7 @@
 | 原账号代充        | 是     | 服务费     | 平台质量参差          | 到期再下单       |
 | 成品号          | 否     | 服务费     | 账号不归你           | 看卖家         |
 
-详见：[GPT 国内支付方式汇总](https://mixlivo.com/guides/gpt-guonei-zhifu) · [ChatGPT Plus 支付宝、微信能付吗](https://mixlivo.com/guides/chatgpt-plus-alipay-wechat)
+详见：[GPT 国内支付方式汇总](https://mixlivo.com/guides/gpt-guonei-zhifu?from=github) · [ChatGPT Plus 支付宝、微信能付吗](https://mixlivo.com/guides/chatgpt-plus-alipay-wechat?from=github)
 
 ## 付款报错对照表
 
@@ -65,7 +65,7 @@
 
 连续失败后不要立刻反复重试，隔一段时间再操作，避免触发风控。
 
-完整排查顺序：[ChatGPT Plus 付款失败怎么办](https://mixlivo.com/guides/chatgpt-plus-payment-failed)
+完整排查顺序：[ChatGPT Plus 付款失败怎么办](https://mixlivo.com/guides/chatgpt-plus-payment-failed?from=github)
 
 ## 各方式要点
 
@@ -79,7 +79,7 @@
 - ChatGPT App 未在国区 App Store 上架，需要外区 Apple ID
 - 取消订阅：设置 → Apple ID → 订阅
 - 退款由 Apple 处理
-- 详见：[苹果手机怎么开通 ChatGPT Plus](https://mixlivo.com/guides/chatgpt-plus-iphone)
+- 详见：[苹果手机怎么开通 ChatGPT Plus](https://mixlivo.com/guides/chatgpt-plus-iphone?from=github)
 
 **Google Play**
 
@@ -93,7 +93,7 @@
 **原账号代充**
 
 - 付款后提交 Session，由平台给你自己的账号开通
-- 完整步骤：[ChatGPT Plus 充值教程](https://mixlivo.com/guides/chatgpt-plus-recharge-tutorial)
+- 完整步骤：[ChatGPT Plus 充值教程](https://mixlivo.com/guides/chatgpt-plus-recharge-tutorial?from=github)
 
 ## 原账号充值 vs 成品号
 
@@ -106,7 +106,7 @@
 
 Session 可以在 `chatgpt.com/api/auth/session` 页面看到，在有效期内可访问账号，只提交给可信的平台。
 
-详见：[GPT 成品号能买吗](https://mixlivo.com/guides/gpt-chengpinhao) · [GPT 代充、成品号、礼品卡有什么区别](https://mixlivo.com/guides/gpt-daichong-vs-account-vs-giftcard)
+详见：[GPT 成品号能买吗](https://mixlivo.com/guides/gpt-chengpinhao?from=github) · [GPT 代充、成品号、礼品卡有什么区别](https://mixlivo.com/guides/gpt-daichong-vs-account-vs-giftcard?from=github)
 
 ## Session 常见问题
 
@@ -118,7 +118,7 @@ Session 可以在 `chatgpt.com/api/auth/session` 页面看到，在有效期内�
 | 提示格式不对     | 没复制完整或被翻译插件改动 | 关闭自动翻译，从 `{` 复制到 `}`  |
 | App 里打不开   | 这个地址只能在浏览器打开  | 换用浏览器                 |
 
-详见：[ChatGPT Session 是什么、怎么获取、安全吗](https://mixlivo.com/guides/chatgpt-session-security)
+详见：[ChatGPT Session 是什么、怎么获取、安全吗](https://mixlivo.com/guides/chatgpt-session-security?from=github)
 
 ## 代充平台检查清单
 
@@ -131,7 +131,7 @@ Session 可以在 `chatgpt.com/api/auth/session` 页面看到，在有效期内�
 
 示例：MixLivo 为原账号充值模式，ChatGPT Plus ¥158 / 月，支付宝付款后在订单页提交 Session 自动开通，通常 1 分钟左右，不需要密码，不发卡密；开不通全额退款，订阅期内会员掉了按剩余天数退款。Pro 100（¥788）、Pro 200（¥1388）同样付款后提交 Session 自动开通；Pro 500 与 Claude Pro 联系客服办理。
 
-详见：[GPT 代充靠谱吗](https://mixlivo.com/guides/gpt-daichong-reliable) · [MixLivo 靠谱吗](https://mixlivo.com/guides/mixlivo-kaopu) · [淘宝能买 ChatGPT Plus 吗](https://mixlivo.com/guides/chatgpt-plus-taobao)
+详见：[GPT 代充靠谱吗](https://mixlivo.com/guides/gpt-daichong-reliable?from=github) · [MixLivo 靠谱吗](https://mixlivo.com/guides/mixlivo-kaopu?from=github) · [淘宝能买 ChatGPT Plus 吗](https://mixlivo.com/guides/chatgpt-plus-taobao?from=github)
 
 ## 常见问题
 
@@ -139,21 +139,21 @@ Session 可以在 `chatgpt.com/api/auth/session` 页面看到，在有效期内�
 
 **Plus 和免费版差多少？** 主要差在使用上限、可用模型和文件分析等能力。免费版经常不够用时，再考虑升级。
 
-**有官方激活码、兑换码吗？** 没有。网上卖的卡密多是平台兑换凭证或礼品卡。详见 [ChatGPT Plus 激活码、兑换码、卡密是什么](https://mixlivo.com/guides/chatgpt-plus-jihuoma)。
+**有官方激活码、兑换码吗？** 没有。网上卖的卡密多是平台兑换凭证或礼品卡。详见 [ChatGPT Plus 激活码、兑换码、卡密是什么](https://mixlivo.com/guides/chatgpt-plus-jihuoma?from=github)。
 
-**Plus 能升级 Pro 吗？** 可以，详见 [ChatGPT Plus 升级 Pro 怎么算钱](https://mixlivo.com/guides/chatgpt-plus-upgrade-pro) 和 [ChatGPT Pro 充值指南](https://mixlivo.com/guides/chatgpt-pro-chongzhi)。
+**Plus 能升级 Pro 吗？** 可以，详见 [ChatGPT Plus 升级 Pro 怎么算钱](https://mixlivo.com/guides/chatgpt-plus-upgrade-pro?from=github) 和 [ChatGPT Pro 充值指南](https://mixlivo.com/guides/chatgpt-pro-chongzhi?from=github)。
 
-**会员用到一半没了怎么办？** 先按 [ChatGPT Plus 突然没了的 7 个原因](https://mixlivo.com/guides/chatgpt-plus-lost) 排查。
+**会员用到一半没了怎么办？** 先按 [ChatGPT Plus 突然没了的 7 个原因](https://mixlivo.com/guides/chatgpt-plus-lost?from=github) 排查。
 
-**Codex 要单独充值吗？** 不用，Plus 已包含 Codex。详见 [Codex 免费吗](https://mixlivo.com/guides/codex-mianfei)。
+**Codex 要单独充值吗？** 不用，Plus 已包含 Codex。详见 [Codex 免费吗](https://mixlivo.com/guides/codex-mianfei?from=github)。
 
 ## 延伸阅读
 
-- [ChatGPT 订阅怎么开、续费和取消](https://mixlivo.com/guides/chatgpt-dingyue)
-- [ChatGPT Go 是什么](https://mixlivo.com/guides/chatgpt-go)
-- [ChatGPT Plus 和 Claude Pro 选哪个](https://mixlivo.com/guides/chatgpt-plus-vs-claude-pro)
-- [GPT 充值网站怎么选](https://mixlivo.com/guides/gpt-chongzhi-website)
-- [GPT 国内怎么购买](https://mixlivo.com/guides/gpt-guonei-goumai)
+- [ChatGPT 订阅怎么开、续费和取消](https://mixlivo.com/guides/chatgpt-dingyue?from=github)
+- [ChatGPT Go 是什么](https://mixlivo.com/guides/chatgpt-go?from=github)
+- [ChatGPT Plus 和 Claude Pro 选哪个](https://mixlivo.com/guides/chatgpt-plus-vs-claude-pro?from=github)
+- [GPT 充值网站怎么选](https://mixlivo.com/guides/gpt-chongzhi-website?from=github)
+- [GPT 国内怎么购买](https://mixlivo.com/guides/gpt-guonei-goumai?from=github)
 
 ## 更新记录
 
