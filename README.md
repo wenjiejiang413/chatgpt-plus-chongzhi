@@ -179,10 +179,12 @@ Session 可以在 `chatgpt.com/api/auth/session` 页面看到，在有效期内�
 - [ChatGPT Plus 充值：国内怎么买、¥158 开通](https://mixlivo.com/guides/chatgpt-plus-recharge)
 - [ChatGPT 订阅怎么开、续费和取消](https://mixlivo.com/guides/chatgpt-dingyue)
 - [ChatGPT Go 是什么](https://mixlivo.com/guides/chatgpt-go)
-- [ChatGPT Plus 和 Claude Pro 选哪个](https://mixlivo.com/guides/chatgpt-plus-vs-claude-pro)
-
+- [ChatGPT Plus 和 Claude Pro 选哪个](https://mixlivo.com/guides/chatgpt-plus-vs-claude-pro) 
+- [ChatGPT Plus 和 Pro 有什么区别？Pro 100 / 200 / 500 怎么选](chatgpt-plus-vs-pro.md)
+- [GPT 充值怎么弄？4 种开通方式和常见失败原因](gpt-chongzhi.md)
+ 
 ## 更新记录
 
-- 2026-10-09：标题和目录改为以「ChatGPT Plus 充值」为主；开通方式按 6 种整理，补充选择建议、余额不足报错和充值常见问题；链接统一到最新页面
+- 2026-10-09：标题和目录改为以「ChatGPT Plus 充值」为主；开通方式按 6 种整理，补充选择建议、余额不足报错和充值常见问题；链接统一到最新页面；新增两篇专题：Plus 和 Pro 怎么选、GPT 充值怎么弄
 - 2026-10：更新代充示例价格（Plus 统一 ¥158，Pro 改为自动开通）；新增价格速查、Session 常见问题、更多报错对照和延伸阅读
 - 2026-09：初版，整理 5 种开通方式、付款报错对照和代充检查清单
