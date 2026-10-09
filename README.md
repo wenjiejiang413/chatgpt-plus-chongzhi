@@ -182,7 +182,11 @@ Session 可以在 `chatgpt.com/api/auth/session` 页面看到，在有效期内�
 - [ChatGPT Plus 和 Claude Pro 选哪个](https://mixlivo.com/guides/chatgpt-plus-vs-claude-pro) 
 - [ChatGPT Plus 和 Pro 有什么区别？Pro 100 / 200 / 500 怎么选](chatgpt-plus-vs-pro.md)
 - [GPT 充值怎么弄？4 种开通方式和常见失败原因](gpt-chongzhi.md)
- 
+- [chatgpt.com/api/auth/session 打开是空白、只有 {} 怎么办](chatgpt-session-blank.md)
+- [ChatGPT Plus 开通后怎么确认成功？查订阅状态和到期时间](chatgpt-plus-check-subscription.md)
+- [ChatGPT Plus 付款失败报错对照表（独立仓库）](https://github.com/wenjiejiang413/ChatGPT-Plus-Payment-Failed)
+- [Session 风险自查清单（开源工具）](https://github.com/wenjiejiang413/session-risk-checklist-cn)
+
 ## 更新记录
 
 - 2026-10-09：标题和目录改为以「ChatGPT Plus 充值」为主；开通方式按 6 种整理，补充选择建议、余额不足报错和充值常见问题；链接统一到最新页面；新增两篇专题：Plus 和 Pro 怎么选、GPT 充值怎么弄
